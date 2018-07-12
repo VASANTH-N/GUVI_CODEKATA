@@ -4,3 +4,5 @@ if(1<=a<=100000):
   print("Even")
  else:
   print("Odd")
+else
+ print("invalid")
