@@ -1,4 +1,5 @@
 a=input()
+a=int(a)
 if(1<=a<=100000):
  print("Positive")
 elif(a==0):
