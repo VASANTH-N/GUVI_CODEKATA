@@ -1,0 +1,11 @@
+n=int(input())
+i=2
+c=1
+while(i<=n//2):
+ if(n%i==0):
+  c=0
+ i+=1
+if(c==1):
+ print("yes")
+else:
+ print("no")
